@@ -1,0 +1,11 @@
+7. Reflection & Self-Check
+Answer briefly:
+
+1. Why does animation happen in draw()?
+	It runs continuously(about 60 times per second) and updates the values.
+
+2. What happens if background() is removed?
+	The screen does not clear previous frames, so moving object leave trail behind.
+
+3. How does mouse interaction work?
+	It store the current position of the mouse(react based on mouse movement).
